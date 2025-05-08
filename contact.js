@@ -1,5 +1,5 @@
 const prompt = require("prompt-sync")();
-let contacts = [];
+
 function printInfo() {
   console.log("Contact Management System");
   console.log("-------------------------");
@@ -19,6 +19,8 @@ function addContact() {
   contacts.push(contact);
   console.log("Added!");
 }
+
+let contacts = [];
 
 function deleteContact() {
   for (let i = 0; i < contacts.length; i++) {

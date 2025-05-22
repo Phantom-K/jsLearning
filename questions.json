@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": ["Oxygen", "Gold", "Osmium", "Oxide"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": [
+        "William Shakespeare",
+        "Jane Austen",
+        "Mark Twain",
+        "George Orwell"
+      ],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the capital city of France?",
+      "options": ["London", "Rome", "Paris", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Mercury", "Neptune"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What is the boiling point of water at sea level in Celsius?",
+      "options": ["100", "90", "80", "110"],
+      "answer": "100"
+    },
+    {
+      "question": "Which ocean is the largest?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "In computing, what does 'CPU' stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Control Power Unit",
+        "Central Power Unit",
+        "Compute Processing Unit"
+      ],
+      "answer": "Central Processing Unit"
+    }
+  ]
+}
